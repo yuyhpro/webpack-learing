@@ -145,3 +145,5 @@ document.domain
 
 location.
 
+
+git hub up 修改
